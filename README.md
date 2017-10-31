@@ -27,3 +27,7 @@ Open your fsx/prepar3d folder and look into
 <*> folder names can be FSX-SP2-XPACK, FSX-SP1, ...
 
 Execute the SimConnect.msi to install SimConnect
+
+#### Thanks:
+
+Thanks to Florian Leitner (http://florian-leitner.de/) for the USBHID Library 
